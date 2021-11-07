@@ -1,0 +1,6 @@
+.redux-header {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(37, 36, 36, 0.952);
+    color: white;
+}

@@ -1,0 +1,17 @@
+.notification{
+    display: flex;
+    color: white;
+    justify-content: space-around;
+}
+
+.success {
+    background-color: chartreuse;
+}
+
+.error {
+    background-color: chocolate;
+}
+
+.pending {
+    background-color: cyan;
+}
